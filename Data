@@ -1,1 +1,57 @@
+Raw_Review file
+--------------------------
 
+i love cars
+Mclaren needs to improve its engine
+great selection of automobile
+you can t just explain it that s why u gotta show them
+ferrari is the most expensive
+too slow to start
+even though the engine isn t always perfect the selection of cars is irresistible
+the cars have issues and tyres are too slippery
+it is very good quality
+love the sound of it
+
+----------------------------
+
+tag_description.csv
+
+1
+CC
+Coordinating conjunction
+2
+2
+CD
+Cardinal number
+3
+3
+DT
+Determiner
+4
+4
+EX
+Existential there
+5
+5
+FW
+Foreign word
+6
+6
+IN
+Preposition or subordinating conjunction
+7
+7
+JJ
+Adjective
+8
+8
+JJR
+Adjective(comparative)
+9
+9
+JJS
+Adjective(superlative)
+10
+10
+LS
+List item marker
